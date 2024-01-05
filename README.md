@@ -11,7 +11,6 @@ pip install nalyst
 Nalyst toolkit for data analysis is like having a personal guide through the data world. It's a flexible and powerful tool that helps you explore and understand your data.
 
 
-# Professional Profile
 
 ## Data Analysis
 I specialize in expert data analysis, uncovering valuable insights through meticulous examination and advanced analytical techniques.
