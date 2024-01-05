@@ -5,3 +5,4 @@ My expertise is to provide insightful and actionable recommendations to support 
 I am committed to delivering accurate and meaningful results, utilizing my technical skills to turn data into a valuable asset for my clients.
 
 ```https://pypi.org/project/nalyst/```
+Nalyst toolkit for data analysis is like having a personal guide through the data world. It's a flexible and powerful tool that helps you explore and understand your data.
