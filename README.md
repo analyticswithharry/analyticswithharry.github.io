@@ -6,6 +6,6 @@ I am committed to delivering accurate and meaningful results, utilizing my techn
 
 ```bash
 pip install nalyst
-
+```
 
 Nalyst toolkit for data analysis is like having a personal guide through the data world. It's a flexible and powerful tool that helps you explore and understand your data.
